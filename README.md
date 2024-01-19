@@ -20,7 +20,9 @@ While working on it I will break down the project into smaller chunks. I will mo
 As this is a small project it is not necessary to assign large periods of time for each chunk (for eaxmple in a larger project this may be two weeks), but I will have daily meetings with my team to discuss my progress and recieve any feedback which I can apply. The team will have access to my project and kanban board so they are able to see 
 
 ## LTI & LTV calaculator🏠
-My idea for my app which I pitched to my team was to create a calculator which would be publicaly available on our workplace's website which people could use to understand the Loan-to-Value or Loan-to-Income they are likely to be offered when purchasing a property. My workplace has rules and guidance for Banks and mortgage providers, so this will be useful to help the 
+My idea for my app which I pitched to my team was to create a calculator which would be publicaly available on our workplace's website which people could use to understand the Loan-to-Value or Loan-to-Income they are likely to be offered when purchasing a property. My workplace has rules and guidance for Banks and mortgage providers, so this will be useful to help the public understand what rules are in place. 
+
+My idea was to allow the user to have the option to enter their income and be told what what size loan they are likely to be offered (based on the curent average LTI), or enter the value of the house they would like to purchase and be told how much they would likely be offered for the loan. This is a helpful tool to be able to work out what size deposit they would need, or if they need to reconsider their budget for the property. 
 
 
 
