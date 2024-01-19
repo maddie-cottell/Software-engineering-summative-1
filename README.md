@@ -12,7 +12,7 @@
 - [Project Management](#project-management)
 - [Usage](#usage)
 - [Evaluation](#evaluation)
-- 
+  
 
 ## Assignment Aim 
 🥅 The goal of this assignemnt is to create a Web App that will be useful to my team and workplace.
@@ -26,7 +26,7 @@ I will create documentation and Read-Me files for different parts of the project
 ## Planning - Agile method
 
 ![Image showing agile pipeline](/Images/Agile_image.jpg "Agile image")
-figure 1 - 
+ 
 
 
 🏃‍♀ This project will follow the Agile method, which is an iterative and flexible approach that allows for continuous improvement and adaptation to changing requirements.
@@ -45,7 +45,7 @@ My idea was to allow the user to have the option to enter their income and be to
 🎨 I used the platform Figma to create a prototype that I wanted my calculator to look like.
 
 ![Image showing first figma prototype](/Images/Prototype_1.png "Prototype 1")
-F
+
 
 Firstly, I came up with a general idea of what I wanted my app to look like. I knew that I wanted to have the information at the top, with the interactive buttons and calculations at the bottom. This makes the most sense logically, and ensures the person has read everything they need to before beginning to use the program. 
 
@@ -58,14 +58,31 @@ Next, I decided which buttons I would have, and where they would be placed on th
 Finally, I added the details to the prototype and produced the final design. I decided which image I would be using, and matched the colours of the other boxes to it to improve the look. I also added the text and description of what the product would be doing to produce the final workable prototype.
 
 ## Project Files
-📂
+📂 My project and repository is made up of multiple files which work together to produce the final output.
+
+calculator.html - This is a HTML file which creates the structure and content of my web page by creating elemenets such as buttons and headings
+
+calculator.js - This file carries out the "behind the scenes" calculations. It has functions which takes the user's inputs and to create the desired output.
+
+calculator_test.js - This file has functions which does vital testing of the main calculator Javascript file, which I will go into further detail on later
+
+CSS_stlye.css - Defines how the HTML file will look and the syle of the overall webpage by editing things such as fonts and colours.
+
+Images - All images which I use in both this ReadMe and in the HTML file are stored in a folder where they can easily be read in. I chose to do this rather than linking online URLs because it is possible that they could be deleted or changed which could disrupt the flow of the text or possibly even break the code depending on what the image is being used for.
+
+In summary, the HTML file defines the structure of the page, the CSS file styles the elements, the JavaScript file adds dynamic behavior, and the testing file ensures that the JavaScript functions work as intended and that the user won't encounter errors while using it. The image files provide visual content for the program.
 
 ## Branches and pull requests
 ⬇️ 
 
 ## Testing
-📚
+📚 It is very important when carrying out any project to test that everything works as intended and that the user will not encounter any errors.
 
+I used the JEST testing methods to check that two things in my project worked - if it is successfuly able to calculate the LTI and LTV, and if it is able to determine if a valid number has been entered by the user.
+
+It does this by importing the functions from the main file, and creating individual test cases using an example number. Using the JEST testing method it is also possible to try "mocking" an invalid input and seeing what happens if a user was to make a mistake . It makes assumptions and would expect the validity test to return that there had been an error.
+
+By carrying out these tests I feel more confident . The testing file will remain in the repository so it is possible for other users to see what testing I carried out, and also so they can use it themselves if they make any changes to the code or have any problems. 
 ## Project Management
 👩‍⚖️
 
@@ -73,9 +90,7 @@ Finally, I added the details to the prototype and produced the final design. I d
 
 🖥️ Using this program is simple! All you need to do is clone the repository onto your local device on a platform which supports Git, such as Visual Studio Code. All of the files are stored within the same directory and automatically produce outputs which feed into one another, so it is possible to run the calculator and the testing straight away. 
 
-It is likely that this program will require maintenace, such as updating the standard LTI and LTV as the market and trends change. This should be a small to fix to do, changing one number which is marked by a comment in the code.
-
-It is important to run the testing after making any changes to ensure that the program is continuing to work as intended. 
+It is likely that this program will require maintenace, such as updating the standard LTI and LTV as the market and trends change. This should be a small to fix to do, changing one number which is marked by a comment in the code. It is important to run the testing after making any changes to ensure that the program is continuing to work as intended. 
 
 ## Evaluation
 
