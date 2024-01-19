@@ -6,6 +6,13 @@
 - [Planning - Agile method](#planning---agile-method)
 - [LTI & LTV calaculator](#lti-and-ltv-calaculator)
 - [Figma Prototype](#figma-prototype)
+- [Project Files](#project-files)
+- [Branches and pull requests](#branches-and-pull-requests)
+- [Testing](#testing)
+- [Project Management](#project-management)
+- [Usage](#usage)
+- [Evaluation](#evaluation)
+- 
 
 ## Assignment Aim 
 🥅 The goal of this assignemnt is to create a Web App that will be useful to my team and workplace.
@@ -19,6 +26,7 @@ I will create documentation and Read-Me files for different parts of the project
 ## Planning - Agile method
 
 ![Image showing agile pipeline](/Images/Agile_image.jpg "Agile image")
+figure 1 - 
 
 
 🏃‍♀ This project will follow the Agile method, which is an iterative and flexible approach that allows for continuous improvement and adaptation to changing requirements.
@@ -37,6 +45,7 @@ My idea was to allow the user to have the option to enter their income and be to
 🎨 I used the platform Figma to create a prototype that I wanted my calculator to look like.
 
 ![Image showing first figma prototype](/Images/Prototype_1.png "Prototype 1")
+F
 
 Firstly, I came up with a general idea of what I wanted my app to look like. I knew that I wanted to have the information at the top, with the interactive buttons and calculations at the bottom. This makes the most sense logically, and ensures the person has read everything they need to before beginning to use the program. 
 
@@ -48,3 +57,34 @@ Next, I decided which buttons I would have, and where they would be placed on th
 
 Finally, I added the details to the prototype and produced the final design. I decided which image I would be using, and matched the colours of the other boxes to it to improve the look. I also added the text and description of what the product would be doing to produce the final workable prototype.
 
+## Project Files
+📂
+
+## Branches and pull requests
+⬇️ 
+
+## Testing
+📚
+
+## Project Management
+👩‍⚖️
+
+## Usage 
+
+🖥️ Using this program is simple! All you need to do is clone the repository onto your local device on a platform which supports Git, such as Visual Studio Code. All of the files are stored within the same directory and automatically produce outputs which feed into one another, so it is possible to run the calculator and the testing straight away. 
+
+It is likely that this program will require maintenace, such as updating the standard LTI and LTV as the market and trends change. This should be a small to fix to do, changing one number which is marked by a comment in the code.
+
+It is important to run the testing after making any changes to ensure that the program is continuing to work as intended. 
+
+## Evaluation
+
+🏁Overall, I enjoyed this assignment and thought it was successful. I was able to build a calculator using which will be beneficial for my workplace and is ready to be implemented.
+
+Using Github enhanced the overall project by allowing me to work incrementally, and track what I had done. As I worked through the project it was very useful to be able to look at the commit history to keep track of what I had done, and by linking branches to issues in my kanban board it was very easy to stay on top of my to do list.
+
+I did face some challenges when completing this assignment. When I began I initially had some trouble getting used to using Github and its different features. There were also some simple things that I just wasn't used to and I got stuck on, such as using a hyphon instead of a space when creating links in the contents bar, which required time and further research to overcome. 
+
+I also had some trouble with the testing when I began because I had never used the JEST method before, but I was happy with the testing methods that I was able to create.
+
+If I was to complete this project again or had the oppurtunity to expand on it in the future I would like to expand what my web page is able to do, such as allowing the user to enter the deposit that they are planning to put down, and other characteristics about themself that would affect the mortgage they would be offered.
