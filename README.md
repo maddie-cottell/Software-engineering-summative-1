@@ -36,12 +36,15 @@ My idea was to allow the user to have the option to enter their income and be to
 ## Figma Prototype
 🎨 I used the platform Figma to create a prototype that I wanted my calculator to look like.
 
-![Image showing first figma prototype](/Images/Prototype_1.jpg "Prototype 1")
+![Image showing first figma prototype](/Images/Prototype_1.png "Prototype 1")
+
 Firstly, I came up with a general idea of what I wanted my app to look like. I knew that I wanted to have the information at the top, with the interactive buttons and calculations at the bottom. This makes the most sense logically, and ensures the person has read everything they need to before beginning to use the program. 
 
-![Image showing second figma prototype](/Images/Prototype_2.jpg "Prototype 2")
+![Image showing second figma prototype](/Images/Prototype_2.png "Prototype 2")
+
 Next, I decided which buttons I would have, and where they would be placed on the app. In this prototype I highlight what each button is, such as an input button or just a text box. 
 
-![Image showing final figma prototype](/Images/final_prototype.jpg "Prototype 2")
+![Image showing final figma prototype](/Images/Final_prototype.png "Prototype 2")
+
 Finally, I added the details to the prototype and produced the final design. I decided which image I would be using, and matched the colours of the other boxes to it to improve the look. I also added the text and description of what the product would be doing to produce the final workable prototype.
 
