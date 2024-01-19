@@ -5,7 +5,7 @@
 - [Assignment Aim](#assignment-aim)
 - [Planning - Agile method](#planning---agile-method)
 - [LTI & LTV calaculator](#lti-and-ltv-calaculator)
-- [Project management](#project management)
+- [Figma Prototype](#figma-prototype)
 
 ## Assignment Aim 
 🥅 The goal of this assignemnt is to create a Web App that will be useful to my team and workplace.
@@ -33,5 +33,6 @@ As this is a small project it is not necessary to assign large periods of time f
 My idea was to allow the user to have the option to enter their income and be told what what size loan they are likely to be offered (based on the curent average LTI), or enter the value of the house they would like to purchase and be told how much they would likely be offered for the loan. This is a helpful tool to be able to work out what size deposit they would need, or if they need to reconsider their budget for the property. 
 
 
-
+## Figma Prototype
+🎨 I used the platform Figma to create a prototype that I wanted my calculator to look like.
 
