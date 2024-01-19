@@ -18,7 +18,9 @@ I will create documentation and Read-Me files for different parts of the project
 
 ## Planning - Agile method
 
-![Image showing agile pipeline](/Images/agile_image.jpg "Agile image"))
+![Image showing agile pipeline](/Images/Agile_image.jpg "Agile image")
+
+
 🏃‍♀ This project will follow the Agile method, which is an iterative and flexible approach that allows for continuous improvement and adaptation to changing requirements.
 
 While working on it I will break down the project into smaller chunks. I will monitor these using issues on the kanban board, which will allow me to monitor and plan tasks while still being able to easily adapt the plan as there are changes to requirements. Before I begin I will have a sprint planning meeting where the tasks are determined, each of which will have a clear goal which is easy to determine if it has been completed or not.  
